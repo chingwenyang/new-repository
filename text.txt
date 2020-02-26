@@ -1,1 +1,4 @@
+
 text in branch master
+this is the change on branch1
+exercise merge conflict
